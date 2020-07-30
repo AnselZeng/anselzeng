@@ -1,8 +1,8 @@
-<p align = "left">
+<!-- <p align = "left">
   <img align = "left" alt = "GIF" object-cover = "fit" src = "https://cdn.dribbble.com/users/1156037/screenshots/2705352/mac_5.gif"/>
-</p>
+</p> -->
 
-### 👋 Hi there!
+<h1>Hi there, I'm<a href="https://anselzeng.github.io/my-website//"> Ansel </a>👋</h1>
 
 </br>
 
@@ -17,8 +17,6 @@ I'm a Computer Science student at UWO
 [![GitHub Badge](https://img.shields.io/badge/-anselzeng-blue?logo=GitHub&logoColor=white)](https://github.com/anselzeng) 
 
 </p>
-
-<h1>Hi there, I am <a href="https://anselzeng.github.io/my-website//">Ansel 👋</a></h1>
 
 <!--
 **AnselZeng/anselzeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
