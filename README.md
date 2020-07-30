@@ -4,8 +4,6 @@
 
 <h1>Hi there, I'm<a href="https://anselzeng.github.io/my-website//"> Ansel </a>👋</h1>
 
-</br>
-
 I'm a Computer Science student at UWO
 
 ## 📫 Contact Me
