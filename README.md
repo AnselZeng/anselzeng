@@ -1,8 +1,8 @@
-<!-- <p align = "left">
-  <img align = "left" alt = "GIF" object-cover = "fit" src = "https://cdn.dribbble.com/users/1156037/screenshots/2705352/mac_5.gif"/>
-</p> -->
+<p align = "left">
+  <img align = "left" alt = "GIF" object-cover = "fit" src = "https://cdn.dribbble.com/users/1156037/screenshots/2705352/mac_5.gif">
+</p>
 
-<h1>Hi there, I'm<a href="https://anselzeng.github.io/my-website//"> Ansel </a>👋</h1>
+<h1>Hi there, I'm<a href="https://anselzeng.github.io/my-website/"> Ansel </a>👋</h1>
 
 I'm a Computer Science student at UWO
 
@@ -12,7 +12,7 @@ I'm a Computer Science student at UWO
 
 [![Gmail Badge](https://img.shields.io/badge/-azeng25@uwo.ca-c14438?logo=Gmail&logoColor=white)](mailto:azeng25@uwo.ca)
 [![Linkedin Badge](https://img.shields.io/badge/-anselzeng-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anselzeng/) 
-[![GitHub Badge](https://img.shields.io/badge/-anselzeng-blue?logo=GitHub&logoColor=white)](https://github.com/anselzeng) 
+[![GitHub Badge](https://img.shields.io/badge/-anselzeng-green?logo=GitHub&logoColor=white)](https://github.com/anselzeng) 
 
 </p>
 
