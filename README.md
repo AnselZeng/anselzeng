@@ -1,5 +1,5 @@
 <p align = "left">
-  <img align = "left" alt = "GIF" object-cover = "fit" src = "https://media0.giphy.com/media/Ihrd6ewIOMlCav2cPz/giphy.gif">
+  <img align = "left" alt = "GIF" widght = "450px" hight = "338" object-cover = "fit" src = "https://media0.giphy.com/media/Ihrd6ewIOMlCav2cPz/giphy.gif">
 </p>
 
 <h1>Hi there, I'm<a href="https://anselzeng.github.io/my-website/"> Ansel </a>👋</h1>
