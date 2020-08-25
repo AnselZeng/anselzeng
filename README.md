@@ -2,7 +2,7 @@
   <img align = "left" alt = "GIF" width = "450px" height = "338px" object-cover = "fit" src = "https://media0.giphy.com/media/Ihrd6ewIOMlCav2cPz/giphy.gif">
 </p>
 
-<h1>Hi there, I'm<a href="https://anselzeng.github.io/my-website/"> Ansel </a>👋</h1>
+<h1>Hi there, I'm<a href="https://anselzeng.github.io/"> Ansel </a>👋</h1>
 
 I'm a Computer Science student at UWO
 
