@@ -8,10 +8,12 @@
   ## 📫 Contact Me
   
   <p>
-    [![Gmail Badge](https://img.shields.io/badge/-azeng25@uwo.ca-c14438?logo=Gmail&logoColor=white)](mailto:azeng25@uwo.ca)
-    [![Linkedin Badge](https://img.shields.io/badge/-anselzeng-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anselzeng/)
-    [![Instagram Badge](https://img.shields.io/badge/-anselzeng-ff69b4?logo=Instagram&logoColor=white)](https://www.instagram.com/anselzeng/)
-    [![GitHub Badge](https://img.shields.io/badge/-AnselZeng-green?logo=GitHub&logoColor=white)](https://github.com/anselzeng)
+  
+   [![Gmail Badge](https://img.shields.io/badge/-azeng25@uwo.ca-c14438?logo=Gmail&logoColor=white)](mailto:azeng25@uwo.ca)
+   [![Linkedin Badge](https://img.shields.io/badge/-anselzeng-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anselzeng/)
+   [![Instagram Badge](https://img.shields.io/badge/-anselzeng-ff69b4?logo=Instagram&logoColor=white)](https://www.instagram.com/anselzeng/)
+   [![GitHub Badge](https://img.shields.io/badge/-AnselZeng-green?logo=GitHub&logoColor=white)](https://github.com/anselzeng)
+  
   </p>
   
 </p>
