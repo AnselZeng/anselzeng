@@ -2,9 +2,9 @@
 
 <h3 align="center">Computer Science and Business student at Western University and Ivey Business School, with a passion for software engineering and leading positive change!</h3>
 
-🏢 **Seeking Summer 2023 internships!** | Previously @ RBC, Tweebaa
+🏢 **Software Developer @ TELUS** | Previously @ RBC, Tweebaa
 
-🌱 I'm currently learning more about systems programming, data structures, and discrete structures for computing
+🌱 I'm currently learning more about **systems programming, data structures, and discrete structures for computing**
 
 ⚡️ Aside from programming, my hobbies include hockey, chess, K-pop, and binging Teddy Baldassarre's watch reviews!
 
